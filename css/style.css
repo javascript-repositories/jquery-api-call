@@ -1,0 +1,39 @@
+body {
+    color: #333;
+    background: #ebebeb;
+}
+
+.card {
+    border: solid 1px;
+    margin-top: 50px;
+    padding: 20px;
+}
+
+.card .btn {
+    margin-top: 30px;
+    background: #326382;
+    color: white;
+}
+
+.card--button {
+    text-align: center;
+}
+
+.card-border {
+    border: solid 2px #08baa5;
+    width: 0;
+}
+
+.card-more-text {
+    margin-top: 20px;
+    display: none;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.selected--button {
+    background-color: red;
+    color: white;
+}
